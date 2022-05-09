@@ -90,7 +90,7 @@ footer{
 	text-align: center;
 }
 @media (max-width: 768px){
-	.testimonials{
+	.Testimonials{
 		grid-template-columns: 1fr;
 		width: 100%;
 	}
